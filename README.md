@@ -5,4 +5,4 @@ Unconstrained optimization methods are implemented to minimize the Rosenbrock fu
 - Steepest descent,
 - Newton's method.
 
-A description of the methods as well as the implementations are provided in the notebook.
+A description of the methods as well as the implementations are provided in the notebooks.
